@@ -1,15 +1,16 @@
 ### Hi there 👋
 
+👨🏻‍💻  About Me
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+- 🌱 I’m currently learning in Generation Chile 🇨🇱
+- 🤔 I’m looking for help with Web Design!
+- 💬 Ask me about how I learned Javascript <3
+- 📫 How to reach me: This is my LinkedIn!
+- https://www.linkedin.com/in/osvaldo-sepulveda-vergara/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There's not :(
 
-**Osvaldoisv/Osvaldoisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠  Tech Stack
+Python - JavaScript - C# - React -  Node.js - Bootstrap - HTML - CSS -  Git - GitHub 
+Visual Studio Code
