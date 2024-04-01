@@ -12,5 +12,5 @@
 - ⚡ Fun fact: There's not :(
 
 🛠  Tech Stack
-Python - JavaScript - C# - React -  Node.js - Bootstrap - HTML - CSS -  Git - GitHub -
+Python - JavaScript (with Stack MERN) - C# - Bootstrap - HTML - CSS -  Git - Wordpress - PHP
 Visual Studio Code
