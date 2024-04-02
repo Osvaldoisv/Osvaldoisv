@@ -1,3 +1,4 @@
+<img src="https://github.com/Osvaldoisv/Osvaldoisv/blob/main/banner1_osvaldoisv.png?raw=true"/>
 
 <h1 align="center">
   Hi 👋, I'm 
