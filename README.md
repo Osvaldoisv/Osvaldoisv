@@ -9,9 +9,9 @@
 </h1>
 <h3 align="center">A passionate Software Developer from Chile</h3>
 
-- 🔭 I’m currently working on: **My own projects**
+- 🔭 I’m currently working on: **Ungga**
 
-- 🌱 I’m currently learning: **Wordpress**
+- 🌱 I’m currently learning: **Langgraph in Python and TS in general**
 
 - 💬 Ask me about: **Javascript, React, Python**
 
